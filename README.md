@@ -1,4 +1,4 @@
-# tix_id
+# TIXFLIX
 
 A new Flutter project.
 
