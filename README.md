@@ -1,6 +1,6 @@
 # TIXFLIX
 
-A new Flutter project.
+Build Aplication Movie With Api TMDB
 
 ## Getting Started
 
